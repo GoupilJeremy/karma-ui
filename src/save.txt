@@ -1,0 +1,11 @@
+<Resource name="posts"
+    list={PostList}
+    edit={PostEdit}
+    create={PostCreate}
+    icon={PostIcon}
+    />
+    <Resource
+    name="users"
+    list={UserList}
+    icon={UserIcon}
+    />
